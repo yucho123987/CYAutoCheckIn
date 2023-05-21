@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^9.12",
+        "symfony/yaml": "^4.0"
+    }
+}
